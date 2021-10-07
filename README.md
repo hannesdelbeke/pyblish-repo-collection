@@ -56,7 +56,7 @@ see https://github.com/lvfx-devteam/LVFX-pipeline/tree/master/pyblish-plugins <b
 ## 🔴 bumpybox
 https://github.com/bumpybox/bumpybox-environment <br/>
 The centralized pipeline used at Bumpybox <br/>
-organised repo but no plugins that look reusable
+organised repo but no plugins that look reusable <br/>
 • BIFROST • FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
 
 
