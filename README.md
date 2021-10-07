@@ -11,17 +11,22 @@ setup available for most dcc packages
 # avalon configs (author: Marcus)
 
 
-### 🟢 AVA (author: Marcus)
+## 🟢 AVA (author: Marcus)
 https://github.com/getavalon/config <br/>
 Ava - the Avalon default configuration <br/>
 • maya
 
 
-### 🟢 Polly (avalon config) (consultant: Marcus)
+###🟢 Polly (avalon config) (consultant: Marcus)
 https://github.com/mindbender-studio/config <br/>
 The Mindbender configuration of Avalon. <br/>
 last commit 4 years ago. has a lot of plugins for maya that seem reusable.
 • maya
+
+
+## OpenPype (build on to of Avalon)
+https://github.com/pypeclub/OpenPype
+• maya • ftrack
 
 
 # other
