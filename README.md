@@ -1,7 +1,7 @@
 a collection of repos that use pyblish
 
 
-# default pyblish repos (author: Marcus)
+# 🟢 default pyblish repos (author: Marcus)
 
 
 see https://github.com/orgs/pyblish/repositories  <br/>
@@ -11,55 +11,63 @@ setup available for most dcc packages
 # avalon configs (author: Marcus)
 
 
-### AVA 
+### 🟢 AVA (author: Marcus)
 https://github.com/getavalon/config <br/>
 Ava - the Avalon default configuration <br/>
 • maya
 
 
-### Polly (avalon config)
+### 🟢 Polly (avalon config) (consultant: Marcus)
 https://github.com/mindbender-studio/config <br/>
 The Mindbender configuration of Avalon. <br/>
+last commit 4 years ago. has a lot of plugins for maya that seem reusable.
 • maya
 
 
 # other
 
 
-## colorbleed
+## 🟢 colorbleed (author: Marcus?)
 https://github.com/Colorbleed/colorbleed-config <br/>
 anim studio config for colorbleed studio <br/>
+lots of reusable plugins <br/>
 • fusion • global • houdini • maya
 
 
-## blacksmith
+## 🟢 artellapipe pyblish plugins
+https://github.com/ArtellaPipe/artellapipe-libs-pyblish <br/>
+lots of reusable plugins, they do have dependency on tpDcc.(which looks cool) https://github.com/tpDcc/tpDcc-core <br/>
+• maya
+
+
+## 🟢 tgbvfx-environment
+https://github.com/TGBVFX/tgbvfx-environment <br/>
+marking as green as looks promising. TODO CHECKOUT MORE INDEPTH <br/>
+• FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
+
+
+# 🟠 LVFX-pipeline
+https://github.com/lvfx-devteam/LVFX-pipeline <br/>
+mostly studio specific plugins but some reusable (mayapy) <br/>
+see https://github.com/lvfx-devteam/LVFX-pipeline/tree/master/pyblish-plugins <br/>
+• FTRACK • HIERO • MAYA • NUKE
+
+
+## 🔴 bumpybox
+https://github.com/bumpybox/bumpybox-environment <br/>
+The centralized pipeline used at Bumpybox <br/>
+organised repo but no plugins that look reusable
+• BIFROST • FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
+
+
+## 🔴 blacksmith 
 see blacksmithvfx-environment/environment/PYBLISHPLUGINPATH/ <br/>
+looks very studio specific, nothing to reuse i think. last submit 4 years ago.<br/>
 https://github.com/blacksmithvfx/blacksmithvfx-environment <br/>
 • deadline • ftrack • houdini • maya • nuke
 
 
-## bumpybox
-https://github.com/bumpybox/bumpybox-environment <br/>
-The centralized pipeline used at Bumpybox <br/>
-• BIFROST • FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
-
-
-## tgbvfx-environment
-https://github.com/TGBVFX/tgbvfx-environment <br/>
-• FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
-
-
-# LVFX-pipeline
-https://github.com/lvfx-devteam/LVFX-pipeline <br/>
-• FTRACK • HIERO • MAYA • NUKE
-
-
-## artellapipe pyblish plugins
-https://github.com/ArtellaPipe/artellapipe-libs-pyblish <br/>
-• maya
-
-
-## wudi
+## 🔴 wudi
 https://github.com/hanbinren/wudi <br/>
 seems like some kind of link between ftrack and dcc software. repo has no readme or instructions. <br/>
 see [wudi/ftrack-connect-package-1.1.1/resource/connect-standard-plugins/](https://github.com/hanbinren/wudi/tree/359f3774e3de0003c8844e9f13d7fcba7e08a979/ftrack-connect-package-1.1.1/resource/connect-standard-plugins) <br/>
