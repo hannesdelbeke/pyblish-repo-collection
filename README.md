@@ -49,7 +49,8 @@ lots of reusable plugins, they do have dependency on [tpDcc](https://github.com/
 ## 🟠 tgbvfx-environment
 https://github.com/TGBVFX/tgbvfx-environment <br/>
 mostly studio specific plugins but some reusable <br/>
-• FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
+see [pluginfolder](https://github.com/TGBVFX/tgbvfx-environment/tree/master/environment/PYBLISHPLUGINPATH) <br/>
+• FTRACK • MAYA • NUKEstudio • royalrender
 
 
 ## 🟠 LVFX-pipeline
