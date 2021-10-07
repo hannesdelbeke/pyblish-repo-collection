@@ -1,4 +1,5 @@
 a collection of repos that use pyblish
+so far the ones with reusable plugins are mostly all made by Marcus.
 
 
 ## 🟢 default pyblish repos (author: Marcus)
@@ -17,15 +18,15 @@ Ava - the Avalon default configuration <br/>
 • maya
 
 
-###🟢 Polly (avalon config) (consultant: Marcus)
+## 🟢 Polly (avalon config) (consultant: Marcus)
 https://github.com/mindbender-studio/config <br/>
 The Mindbender configuration of Avalon. <br/>
-last commit 4 years ago. has a lot of plugins for maya that seem reusable.
+last commit 4 years ago. has a lot of plugins for maya that seem reusable.  <br/>
 • maya
 
 
 ## OpenPype (build on to of Avalon)
-https://github.com/pypeclub/OpenPype
+https://github.com/pypeclub/OpenPype  <br/>
 • maya • ftrack
 
 
@@ -41,13 +42,13 @@ lots of reusable plugins <br/>
 
 ## 🟢 artellapipe pyblish plugins
 https://github.com/ArtellaPipe/artellapipe-libs-pyblish <br/>
-lots of reusable plugins, they do have dependency on tpDcc.(which looks cool) https://github.com/tpDcc/tpDcc-core <br/>
+lots of reusable plugins, they do have dependency on [tpDcc](https://github.com/tpDcc/tpDcc-core) <br/>
 • maya
 
 
-## 🟢 tgbvfx-environment
+## 🟠 tgbvfx-environment
 https://github.com/TGBVFX/tgbvfx-environment <br/>
-marking as green as looks promising. TODO CHECKOUT MORE INDEPTH <br/>
+mostly studio specific plugins but some reusable <br/>
 • FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
 
 
