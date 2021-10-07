@@ -46,7 +46,7 @@ marking as green as looks promising. TODO CHECKOUT MORE INDEPTH <br/>
 • FTRACK • HIERO • LUCIDITY • MAYA • NUKE • PYTHON • XBMLANG
 
 
-# 🟠 LVFX-pipeline
+## 🟠 LVFX-pipeline
 https://github.com/lvfx-devteam/LVFX-pipeline <br/>
 mostly studio specific plugins but some reusable (mayapy) <br/>
 see https://github.com/lvfx-devteam/LVFX-pipeline/tree/master/pyblish-plugins <br/>
