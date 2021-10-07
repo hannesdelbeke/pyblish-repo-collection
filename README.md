@@ -36,7 +36,7 @@ https://github.com/pypeclub/OpenPype  <br/>
 ## 🟢 colorbleed (author: Marcus?)
 https://github.com/Colorbleed/colorbleed-config <br/>
 anim studio config for colorbleed studio <br/>
-lots of reusable plugins <br/>
+great reference to see how it all hooks up. but not a lot of reusable plugins <br/>
 • fusion • global • houdini • maya
 
 
