@@ -25,7 +25,7 @@ last commit 4 years ago. has a lot of plugins for maya that seem reusable.  <br/
 • maya
 
 
-## OpenPype (build on to of Avalon)
+## OpenPype (build on top of Avalon)
 https://github.com/pypeclub/OpenPype  <br/>
 • maya • ftrack
 
@@ -45,6 +45,10 @@ https://github.com/ArtellaPipe/artellapipe-libs-pyblish <br/>
 lots of reusable plugins, they do have dependency on [tpDcc](https://github.com/tpDcc/tpDcc-core) <br/>
 • maya
 
+## 🟢 jiminy-tailcoat
+Config package for Jiminy, looks like some kind of fork.
+see https://github.com/getblessing/jiminy-tailcoat/tree/master/tailcoat/plugins/maya/publish <br/>
+• maya
 
 ## 🟠 tgbvfx-environment
 https://github.com/TGBVFX/tgbvfx-environment <br/>
