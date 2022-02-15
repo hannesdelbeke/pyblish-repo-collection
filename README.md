@@ -1,6 +1,8 @@
 a collection of repos that use pyblish
 so far the ones with reusable plugins are mostly all made by Marcus.
 
+https://github.com/kredencstudio/pyblish-kredenc/tree/master/pyblish_kredenc/plugins (mkolar)
+
 
 ## 🟢 default pyblish repos (author: Marcus)
 
