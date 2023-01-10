@@ -1,8 +1,37 @@
 a collection of repos that use pyblish
-so far the ones with reusable plugins are mostly all made by Marcus.
+so far the ones with reusable plugins are mostly all made by Marcus. (and myself)
 
+## 🟢 My own pyblish repos (biased)
+
+### modelChecker 25 maya plugins
+https://github.com/hannesdelbeke/modelChecker-pyblish-support
+fork from modelchecker to add pyblish support
+Pyblish forum [discussion](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)
+
+### pyblish manager
+standalone tool to manage your pyblish environment
+https://github.com/hannesdelbeke/pyblish-manager
+
+### pyblish simple
+a simpler pyblish UI, still WIP
+https://github.com/hannesdelbeke/pyblish-simple
+
+### pyblish plugin manager
+enable configs for plugins
+control their settings externally, and a editor UI to make the config
+https://github.com/hannesdelbeke/pyblish-plugin-manager
+
+### pyblish blender lint
+https://github.com/hannesdelbeke/pyblish-blender-lint
+7 plugins for blender
+
+### maya quality assurance 
+https://github.com/hannesdelbeke/maya-quality-assurance-pyblish-plugins
+
+## Other
+
+not yet investigated, looks good
 https://github.com/kredencstudio/pyblish-kredenc/tree/master/pyblish_kredenc/plugins (mkolar)
-
 
 ### 🟢 default pyblish repos (author: Marcus)
 
