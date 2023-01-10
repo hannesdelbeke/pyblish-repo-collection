@@ -1,5 +1,6 @@
 a collection of repos that use pyblish
 so far the ones with reusable plugins are mostly all made by Marcus. (and myself)
+I color coded them by how reusable they were, or how usefull to me.
 
 ## 🟢 My own pyblish repos (biased)
 
