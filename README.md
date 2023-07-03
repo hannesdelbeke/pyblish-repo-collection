@@ -1,3 +1,12 @@
+
+Plugins:  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-maya-quality-assurance?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-maya-quality-assurance](https://github.com/hannesdelbeke/pyblish-plugins-maya-quality-assurance): 48 maya plugins [thread](https://forums.pyblish.com/t/collection-of-48-reusable-plugins-for-maya-validation/679)  original [repo](https://github.com/robertjoosten/maya-quality-assurance)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-blender-lint?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-blender-lint](https://github.com/hannesdelbeke/pyblish-plugins-blender-lint): 7 blender plugins [thread](https://forums.pyblish.com/t/collection-of-7-generic-blender-plugins/693)  
+[![](https://img.shields.io/github/stars/hannesdelbeke/pyblish-plugins-modelChecker?color=grey&label=%E2%AD%90&style=flat-square) pyblish-plugins-modelChecker](https://github.com/hannesdelbeke/pyblish-plugins-modelChecker): (now behind source repo) 25 maya plugins [thread](https://forums.pyblish.com/t/collection-of-25-maya-mesh-validation-plugins/692)  
+[![](https://img.shields.io/github/stars/fkaijun/maya_scene_check?color=grey&label=%E2%AD%90&style=flat-square) maya_scene_check](https://github.com/fkaijun/maya_scene_check): 15 maya plugins [thread](https://forums.pyblish.com/t/collection-of-15-reusable-plugins-for-maya-validation/680)  
+[![](https://img.shields.io/github/stars/sol-ansano-kim/medic?color=grey&label=%E2%AD%90&style=flat-square) medic](https://github.com/sol-ansano-kim/medic): 22 maya plugins with the Pyblish converter [medicToPyblish](https://github.com/sol-ansano-kim/medicToPyblish), [thread](https://forums.pyblish.com/t/medic-in-pyblish-22-reusable-plugins-for-maya-mesh-validation/682/6)  
+
+
 a collection of repos that use pyblish
 so far the ones with reusable plugins are mostly all made by Marcus. (and myself)
 I color coded them by how reusable they were, or how usefull to me.
